@@ -2,9 +2,10 @@
 
 ![ico](https://user-images.githubusercontent.com/87606394/173426836-6679d27c-9212-486c-b913-4ce9dd124bdc.png)
 
-#My Current Projects**
+**My Current Projects**
 
-Azuwa, Atom, Koks
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+> Azuwa, Atom, Koks
 
 #My Cool Stats (i have depressions btw)
 
