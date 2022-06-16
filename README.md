@@ -7,7 +7,7 @@
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=great-gatsby)
 
-#My Cool Stats (i have depressions btw)
+**My Cool Stats (i have depressions btw)**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelixH2012&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixH2012&exclude_repo=github-readme-stats,FelixH2012.github.io)](https://github.com/FelixH2012/github-readme-stats)
