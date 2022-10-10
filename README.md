@@ -1,6 +1,6 @@
 # Felix1337
 
-![ico](https://user-images.githubusercontent.com/87606394/173426836-6679d27c-9212-486c-b913-4ce9dd124bdc.png)
+![cat-cats](https://user-images.githubusercontent.com/87606394/194842318-2ca693ce-737f-4970-8249-43968f8d84c1.gif)
 
 ## My Current Projects**
 > Tired Nextgen, Lirium, Koks
