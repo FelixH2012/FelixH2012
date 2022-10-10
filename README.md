@@ -3,7 +3,7 @@
 ![ico](https://user-images.githubusercontent.com/87606394/173426836-6679d27c-9212-486c-b913-4ce9dd124bdc.png)
 
 ## My Current Projects**
-> Azuwa, Atom, Koks
+> Tired Nextgen, Lirium, Koks
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=great-gatsby)
 
