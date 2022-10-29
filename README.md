@@ -18,3 +18,5 @@
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&message=Git&logoColor=FFFFFF&color=F05032&label=)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&logo=GitHub&message=GitHub&logoColor=FFFFFF&color=181717&label=)](https://github.com/)
 [![JetBrains](https://img.shields.io/static/v1?style=for-the-badge&logo=JetBrains&logoColor=FFFFFF&message=JetBrains&nbsp;IDEs&color=000000&label=)](https://www.jetbrains.com/)
+
+https://wakatime.com/badge/user/896d8a0a-0411-452a-b412-174893d28a4b/project/33744c9e-9777-46e5-94d4-c0562f74bea1.svg
