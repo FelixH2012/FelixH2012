@@ -1,10 +1,20 @@
-# Felix1337 : Felix Hans
+<h1 align="center">Hi 👋, I'm Felix</h1>
+<h3 align="center">Big booty Goth girls are my passion</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelixH2012&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixH2012&exclude_repo=github-readme-stats,FelixH2012.github.io)](https://github.com/FelixH2012/github-readme-stats)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixh2012" alt="felixh2012" /></a> </p>
 
-## Im coding with this shit: 
-[![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=Java&logoColor=FFFFFF&message=Java&color=ED8B00&label=)](https://java.com/)
-[![C#](https://img.shields.io/static/v1?style=for-the-badge&logo=Csharp&logoColor=FFFFFF&message=C%23&color=8800ff&label=)](https://java.com/)
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&logo=GitHub&message=GitHub&logoColor=FFFFFF&color=181717&label=)](https://github.com/)
-[![JetBrains](https://img.shields.io/static/v1?style=for-the-badge&logo=JetBrains&logoColor=FFFFFF&message=JetBrains&nbsp;IDEs&color=000000&label=)](https://www.jetbrains.com/)
+- 🔭 I’m currently working on **Chimera**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/felix1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="felix1337" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felixh2012&show_icons=true&locale=en&layout=compact" alt="felixh2012" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felixh2012&show_icons=true&locale=en" alt="felixh2012" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felixh2012&" alt="felixh2012" /></p>
