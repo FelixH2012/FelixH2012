@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felixh2012&show_icons=true&locale=en" alt="felixh2012" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felixh2012&theme=dark" alt="felixh2012" /></p>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Felix1337&width=600)
