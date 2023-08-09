@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
 <h3 align="center">Big booty Goth girls are my passion, femboys are also hot tho</h3>
 
-- 🔭 I’m currently working on **Chimera**
+- 🔭 I’m currently working on **Chimera Reborn**
 
 - ⚡ Fun fact **Ich habe schlimme gedanken**
 
