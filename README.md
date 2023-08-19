@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Felix</h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Felix</h1>
 <h3 align="center">Big booty Goth girls are my passion</h3>
 <h4 align="center">The software I work with</h4>
 <p align="center">
