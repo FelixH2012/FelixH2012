@@ -8,7 +8,7 @@
 <h4 align="center">I can work with these languages</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,css,scss" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,react,javascript" />
   </a>
 </p>
 <details>
