@@ -2,7 +2,7 @@
 <h4 align="center">The software I work with</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,idea,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=github,idea,visualstudio,wordpress" />
   </a>
 </p>
 <h4 align="center">I can work with these languages</h4>
