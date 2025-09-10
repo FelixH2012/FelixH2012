@@ -1,26 +1,10 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Felix</h1>
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com/?lines=FelixH2012;web.developer.status;++loading.complete++;system.online.%E2%9C%93;&font=Fira%20Code&center=true&width=440&height=45&color=c9d1d9&background=0d111700&size=18&duration=4000&pause=1000" alt="Typing Animation" />
+  
+  <div style="background: linear-gradient(90deg, #161b22 0%, #0d1117 50%, #161b22 100%); border: 1px solid #30363d; border-radius: 6px; padding: 15px; margin: 25px auto; max-width: 500px; font-family: 'Courier New', monospace; font-size: 0.9em;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+  </div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelixH2012&bg_color=0d1117&color=8b949e&line=6f42c1&point=c9d1d9&area=true&hide_border=true&custom_title=activity.graph" alt="Activity Graph" style="width: 100%; max-width: 900px; margin: 25px 0;" />
 
-<h4 align="center">🌐 My personal website: <a href="https://felix1337.tech" target="_blank">felix1337.tech</a></h4>
-
-<h4 align="center">The software I work with</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,idea,visualstudio,wordpress" />
-  </a>
-</p>
-
-<h4 align="center">I can work with these languages</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,react,javascript,typescript,php" />
-  </a>
-</p>
-
-<details>
-  <summary>
-    <h4 align="center">About me</h4>
-  </summary>
-  <p align="center">
-    <h5>I've been working in Java for over three years, I'm just finishing high school and I'm a big fan of chess (even though I'm terrible at it).</h5>
-  </p>
-</details>
+</div>
