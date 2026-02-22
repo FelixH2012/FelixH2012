@@ -1,1 +1,1 @@
-![Widget](http://217.154.249.157/?v=v6)
+Great readme.
